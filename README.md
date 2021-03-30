@@ -36,8 +36,6 @@ The submission contains the following files:
 
 * 'data/tidy_UCI_HAR_dataset.txt': The tidy UCI HAR data set.
 
-* 'data/UCI HAR Dataset': The folder containing the original UCI HAR data set.
-
 * 'CodeBook.md': The code book for the tidy UCI HAR data set.
 
 * 'README.md': This README file.
